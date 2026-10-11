@@ -1,2 +1,16 @@
-# TIPE-S-curisation-des-communications-entre-2-ordinateurs
-Ce projet a été développé dans le cadre de l'oral de TIPE pour un oral des concours à l'issue de mes années de Classe Préparatoire aux Grandes Écoles en MP2I puis en MPI. Il traite de l'implémentation d'un réseau virtuel sécurisé par différents protocoles plus ou moins vulnérables utilisant le chiffrement de César, de Vigénère, RSA et AES.
+# Contexte du Projet
+Dans le cadre de mes deux années de formation au sein des Classes Préparatoires aux Grandes Écoles (CPGE) du Lycée Faidherbe (de Lille) dans la filière Mathématiques, Physique, Informatique et Sciences Industrielles (MP2I) durant la première année puis la filière Mathématiques, Physique et Informatique (MPI) au cours de la seconde, j'ai été amené à développer une démarche de recherche scientifique sur un sujet au choix dans le cadre de mon oral de TIPE des concours ayant lieu à l'issue de mes deux années de préparation. J'ai choisi de porter mon sujet d'étude sur la manière d'implémenter et de sécuriser un réseau virtuel comportant deux clients, un serveur ainsi qu'un client malveillant ayant pour objectif de mettre en avant les vulnérabilités de mes différents modèles. A l'issue de mon oral passé le 01/07/2025, j'ai obtenu la note de 16/20 sur ma présentation de ma démarche de recherche.
+
+# Déroulement et contenu
+Ce projet a été séparé en deux parties distinctes : 
+* La première partie du projet, qui a été réalisé pendant l'année scolaire 2023/2024, s'est d'abord centrée sur l'implémentation à l'aide de la Programmation Orientée Objet du modèle censé représenté le réseau virtuel. Les objectifs suivants ont été l'implémentation de l'algorithme du chiffrement de César pour tenter une approche naïve de sécurisation de la communication au sein du réseau, son décryptage par l'utilisation d'un algorithme de force brute, puis une tentative de résolution du problème de sécurité par l'implémentation du chiffrement de Vigénère. Enfin, le dernier objectif consistait à la mise en avant des vulnérabilités de cet algorithme par une attaque par analyse fréquentielle.
+* La deuxième partie du projet consistait à faire aboutir la démarche précédente en utilisant des algorithmes de chiffrements moderne utilisés aujourd'hui dans la plupart des protocoles de communications tel que TLS. Cette partie a été réalisée durant l'année scolaire 2024/2025, dont les objectifs majeurs était d'implémenter un premier protocole utilisant les algorithmes de chiffrement RSA et AES et permettant de garantir la confidentialité d'une communication, tout en gardant une vitesse de chiffrement des données suffisamment rapide. Enfin, le dernier objectif était de modifier notre protocole de communication précédemment construit afin de garantir l'intégrité de la communication tout en nous protégeant de l'attaque *[Man in the middle](https://fr.wikipedia.org/wiki/Attaque_de_l'homme_du_milieu)*.
+
+# Présentation des démarches et de leurs résultats
+
+Les documents ci-dessous concernent la première partie du projet de recherche : 
+* [Présentation orale de la première partie](Projet%TIPE%2023%-%2024/TIPE_MP2I_2024___Securisation_reseau_ordinateurs.pdf)
+
+Les documents ci-dessous concernent la seconde partie du projet de recherche :
+* [MCOT & DOT - Synthèse écrite de la démarche du projet](Projet%TIPE%2024%-%2025/Mcot%TIPE%2024%-%2025.pdf)
+* [Présentation orale du TIPE / de la seconde partie](Projet%TIPE%2024%-%2025/TIPE_MPI_2025___Sécurisation_réseau_ordinateurs_Maxime_LE_BLAN.pdf)
