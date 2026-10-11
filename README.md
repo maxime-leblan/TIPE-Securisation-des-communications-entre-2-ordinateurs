@@ -1,0 +1,2 @@
+# TIPE-S-curisation-des-communications-entre-2-ordinateurs
+Ce projet a été développé dans le cadre de l'oral de TIPE pour un oral des concours à l'issue de mes années de Classe Préparatoire aux Grandes Écoles en MP2I puis en MPI. Il traite de l'implémentation d'un réseau virtuel sécurisé par différents protocoles plus ou moins vulnérables utilisant le chiffrement de César, de Vigénère, RSA et AES.
