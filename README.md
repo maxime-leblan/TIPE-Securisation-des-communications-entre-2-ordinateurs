@@ -9,8 +9,8 @@ Ce projet a été séparé en deux parties distinctes :
 # Présentation des démarches et de leurs résultats
 
 Les documents ci-dessous concernent la première partie du projet de recherche : 
-* [Présentation orale de la première partie](Projet%TIPE%2023%-%2024/TIPE_MP2I_2024___Securisation_reseau_ordinateurs.pdf)
+* [Présentation orale de la première partie](Projet%20TIPE%202023%20-%202024/TIPE_MP2I_2024___Securisation_reseau_ordinateurs.pdf)
 
 Les documents ci-dessous concernent la seconde partie du projet de recherche :
-* [MCOT & DOT - Synthèse écrite de la démarche du projet](Projet%TIPE%2024%-%2025/Mcot%TIPE%2024%-%2025.pdf)
-* [Présentation orale du TIPE / de la seconde partie](Projet%TIPE%2024%-%2025/TIPE_MPI_2025___Sécurisation_réseau_ordinateurs_Maxime_LE_BLAN.pdf)
+* [MCOT & DOT - Synthèse écrite de la démarche du projet](Projet%20TIPE%202024%20-%202025/Mcot%20TIPE%202024%20-%202025.pdf)
+* [Présentation orale du TIPE / de la seconde partie](Projet%20TIPE%202024%20-%202025/TIPE_MPI_2025___Sécurisation_réseau_ordinateurs_Maxime_LE_BLAN.pdf)
